@@ -1,6 +1,6 @@
 # Heart_desease_analyzer
 
-Certainly! The "Heart Disease Prediction" project aims to address the global health challenge posed by cardiovascular diseases, which are a leading cause of mortality worldwide. The project focuses on enhancing the early detection of heart disease through the application of machine learning techniques, primarily using logistic regression.
+The project focuses on enhancing the early detection of heart disease through the application of machine learning techniques, primarily using logistic regression.
 
 **Project Overview:**
 - **Global Significance:** Cardiovascular diseases contribute to over 17 million deaths annually, making them a major public health concern.
